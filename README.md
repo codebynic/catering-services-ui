@@ -23,7 +23,7 @@ It includes a landing page, booking page, and quote request page with working pa
 ## Built With
 - HTML
 - Tailwind CSS
-- JavaScript (for navbar/menu functionality if used)
+- JavaScript (for navbar/menu)
 
 ## Pages Included
 - **Home Page** (`index.html`)
